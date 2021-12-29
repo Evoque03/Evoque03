@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evoque03
+- 👋 Hi, I’m Mert Can!
 - 👀 I’m interested in mobile development.
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter Projects
